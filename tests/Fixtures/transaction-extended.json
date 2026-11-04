@@ -1,0 +1,21 @@
+{
+    "merchantId": "19c692be-a893-468c-a65f-b8de442e5443",
+    "referenceId": "ord_987654",
+    "transactionId": "cd975bc6-a755-4141-b7a0-d7e8f7a308ef",
+    "transactionStatus": "COMPLETED",
+    "amount": 24900,
+    "settlementStatus": "PAID",
+    "lastUpdate": "2020-03-05T10:54:02",
+    "refunds": [
+        {
+            "referenceRefundId": "3e12a361-d193-4f3a-88b5-b8fda405a529",
+            "amount": 8655,
+            "created": "2023-09-08T13:46:04+02:00"
+        },
+        {
+            "referenceRefundId": null,
+            "amount": 855,
+            "created": "2023-09-08T13:46:04+02:00"
+        }
+    ]
+}
